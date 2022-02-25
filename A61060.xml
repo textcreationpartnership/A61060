@@ -1,0 +1,602 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Batt upon Batt a poem upon the parts, patience, and pains of Barth. Kempster, clerk, poet, cutler, of Holy-Rood-parish in Southampton / by a person of quality ; to which is annexed The vision, wherein is described Batt's person and ingenuity, with an account of the ancient and present state and glory of Southampton by the same author.</title>
+            <author>Speed, John, 1628-1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61060</idno>
+            <idno type="STC">Wing S4890</idno>
+            <idno type="STC">ESTC R40619</idno>
+            <idno type="EEBO-CITATION">19411414</idno>
+            <idno type="OCLC">ocm 19411414</idno>
+            <idno type="VID">108842</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61060)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108842)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1678:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Batt upon Batt a poem upon the parts, patience, and pains of Barth. Kempster, clerk, poet, cutler, of Holy-Rood-parish in Southampton / by a person of quality ; to which is annexed The vision, wherein is described Batt's person and ingenuity, with an account of the ancient and present state and glory of Southampton by the same author.</title>
+                  <author>Speed, John, 1628-1711.</author>
+                  <author>Speed, John, 1628-1711. Vision.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The fourth edition.</edition>
+               </editionStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Crouch,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Dedicated to the gentry of Hampshire, for their diversion, but more especially to the inhabitants of Southampton."</note>
+                  <note>Attributed to John Speed by Wing and NUC pre-1956 imprints. Also attributed (erroneously) to John Rooke.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108842:1" rendition="simple:additions"/>
+            <p>BATT upon BATT. A POEM UPON The Parts, Patience, and Pains OF Barth. Kempſter, CLERK, POET, CUTLER, OF <hi>Holy-Rood</hi>-Pariſh in <hi>Southampton.</hi>
+            </p>
+            <p>By a Perſon of Quality.</p>
+            <p>To which is annexed the VISION, Wherein is deſcribed <hi>Batt</hi>'s Perſon and Ingenuity;</p>
+            <p>With an Account of the Ancient and Preſent State and Glory of <hi>Southampton.</hi>
+            </p>
+            <bibl>
+               <hi>By the ſame AUTHOR.</hi>
+            </bibl>
+            <p>
+               <hi>The Fourth Edition.</hi>
+            </p>
+            <p>Dedicated to the Gentry of <hi>Hampſhire,</hi> for their Diverſion: But more eſpecially to the Inhabitants of <hi>Southampton.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Samuel Crouch.</hi> 1694.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:108842:2"/>
+            <head>THE PRINTER TO THE General Reader, GREETING, But more eſpecially the CLERKS of Pa<g ref="char:EOLhyphen"/>riſh-Churches throughout the Kingdom of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Town of <hi>Berwick</hi> upon <hi>Tweed.</hi>
+            </head>
+            <p>FOR your better underſtanding the Occaſion of the Author's writing this enſuing <hi>POEM,</hi> I muſt tell you; That Rhyming <hi>BATT</hi> (like the <hi>Bell-man</hi> of this Town at <hi>Chriſtmas</hi>) made ſome Heroick Stanza's upon the <hi>Author;</hi> who, in Requital and Gratitude, compoſed theſe following <hi>VERSES.</hi>
+            </p>
+            <closer>
+               <signed>T. A.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="3" facs="tcp:108842:2"/>
+            <head>Batt upon Batt. To the laud and praiſe of <hi>Bartholomew Kempſter,</hi> Clerk, Poet, Cutler, of <hi>Holy-Roods</hi> in <hi>Southampton.</hi>
+            </head>
+            <lg>
+               <l>HAD I! O had I! <hi>Batt,</hi> thy face and throat,</l>
+               <l>Could I betune the Flock with ſuch ſweet note,</l>
+               <l>Could I with equal Metre <hi>Hopkins</hi> fit,</l>
+               <l>Out-<hi>Sternhold, Sternhold,</hi> Wiſdom eke outwit;</l>
+               <l>Then would I venture to ſet forth thy Praiſe,</l>
+               <l>And rob Church-Pews to crown thy Head with Bays.</l>
+            </lg>
+            <lg>
+               <l>Or had I for thy ſake the Triple-ſconce</l>
+               <l>Of <hi>Cerberus,</hi> to bark three ways at once,</l>
+               <l>Clerk, Poet, Cutler, Baw, waw, waw, beſides</l>
+               <l>That Cardinal Vertue, for on Mules it rides,</l>
+               <l>Patience I mean, in which thou doſt excel,</l>
+               <l>As all thy Neighbours and thy Wife can tell;</l>
+               <l>Three Trumps then would I found to thy Renown,</l>
+               <l>And from thy Fame immortalize my own.</l>
+            </lg>
+            <lg>
+               <l>Ingenious <hi>Batt!</hi> by Trade and Nature fit</l>
+               <l>To ſet an Edge both on our Knives and Wit.</l>
+               <l>
+                  <hi>Vulcan,</hi> they ſay, made mighty Arms for <hi>Mars,</hi>
+               </l>
+               <l>(Cuckolds are kind) but he ne'r made a Verſe.</l>
+               <l>
+                  <hi>Apollo</hi> he made Verſes, but in's life</l>
+               <l>I never heard that er'e he made a Knife.</l>
+               <l>Now <hi>Batt</hi> does all that both theſe Gods could do;</l>
+               <l>Hammers out Verſes, and hard Iron too.</l>
+               <l>To ſheath ſtrong ſenſe in Metaphorick words,</l>
+               <l>Is but the making Scabbards for his Swords.</l>
+            </lg>
+            <lg>
+               <l>He is a two ſac'd Pump, whoſe Spouts do run</l>
+               <l>Smith's water one way, t'other, Helicon.</l>
+               <pb n="4" facs="tcp:108842:3"/>
+               <l>Have you not ſeen the thing our Butler uſes,</l>
+               <l>With cabin'd belly, things call'd double Cruiſes?</l>
+               <l>The right ſide Vinegar, the left holds Oyl;</l>
+               <l>The Emblem's <hi>that</hi> of Wit, and <hi>this</hi> of Toyl.</l>
+               <l>Such is the Skull of <hi>Batt,</hi> in which the Brains</l>
+               <l>Are parted into Poetry and Pains.</l>
+               <l>He writes and works ſo equally, you'd think</l>
+               <l>One Cheek were black'd with Smoak, t'other with Ink.</l>
+            </lg>
+            <lg>
+               <l>Thrice happy temper! for what makes our life</l>
+               <l>More pleaſant than a good Wit and good Knife?</l>
+               <l>Without their help, who can good <hi>Chriſtmas</hi> keep?</l>
+               <l>Our Teeth would water, and our Eyes would weep:</l>
+               <l>Hunger and Dulneſs would invade our Feaſts,</l>
+               <l>Did not <hi>Batt</hi> find us Arms againſt ſuch Gueſts.</l>
+               <l>He is the cunning Engineer, whoſe Skill</l>
+               <l>Makes Tools to carve the Gooſe, and ſhape the Quill</l>
+               <l>Fancy and Wit unto our Meals ſupplies;</l>
+               <l>Carols, and not minc'd meat, make <hi>Chriſtmas</hi> Pies.</l>
+               <l>'Tis Mirth, not Diſhes, ſets a Table off;</l>
+               <l>Brutes and Phanaticks eat and never laugh.</l>
+            </lg>
+            <lg>
+               <l>What man of Teeth then can be ſo ingrate,</l>
+               <l>To ſlice Roaſt-beef, and not remember <hi>Batt?</hi>
+               </l>
+               <l>When Brawn with powdred Wig comes ſwaggering in,</l>
+               <l>And mighty Serjeant uſhers in the Chine,</l>
+               <l>What ought a wiſe man firſt to think upon?</l>
+               <l>Have I my Tools? if not, I am undone:</l>
+               <l>For 'tis a Law concerns both Saint and Sinner,</l>
+               <l>That he that hath no Knife, muſt have no Dinner.</l>
+               <l>So he falls on; Pig, Gooſe, and Capon feel</l>
+               <l>The goodneſs of his Stomach, and <hi>Batt</hi>'s Steel.</l>
+               <l>In ſuch fierce Frays, alas, there no Remorſe is;</l>
+               <l>All Fleſh is Graſs, which makes men eat like Horſes:</l>
+               <l>But when the Battle's done, off goes the Hat,</l>
+               <l>And each man ſheaths, with God-a-mercy <hi>Batt.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>So when the Miſtreſs cannot hit the Joynt,</l>
+               <l>Which proves ſometimes, you know, a difficult point,</l>
+               <l>Think on a Cuckold, ſtraight the Goſſips cry:</l>
+               <l>But think on <hi>Batt</hi>'s good Carving-knife, ſay I;</l>
+               <pb n="5" facs="tcp:108842:3"/>
+               <l>That ſtill nicks ſure, without offence and ſcandal:</l>
+               <l>Dull Blades may be beholding to their Handle;</l>
+               <l>But thoſe <hi>Batt</hi> makes are all ſo ſharp, they ſcorn</l>
+               <l>To be ſo charmed by his Neighbour's Horn.</l>
+               <l>When I the Edges of his Ware have ſeen,</l>
+               <l>(Seen they could not be, they were all ſo keen)</l>
+               <l>When I have found their Temper all ſo good,</l>
+               <l>From the long Rapier to the Oyſter-ſpud;</l>
+               <l>Happy, thrice happy 'tis, I us'd to ſay,</l>
+               <l>For all Mankind, who wiſh for length of day,</l>
+               <l>That <hi>Batt</hi> no Cutler is unto the Fates;</l>
+               <l>His Sheers would cut our Threads off at ſtrange rates:</l>
+               <l>Snip, —'tis no more; there's work for <hi>Batt,</hi> and die</l>
+               <l>We muſt, to find him Cakes and Elegy.</l>
+            </lg>
+            <lg>
+               <l>O mortal men! is Eating all you do</l>
+               <l>At Chriſt-tide? or the making Sing-ſongs? No:</l>
+               <l>Our <hi>Batt</hi> can dance, play at high Jinks with Dice,</l>
+               <l>At any Primitive Orthodoxal Vice.</l>
+               <l>Shooing the wild Mare, tumbling the young Wenches,</l>
+               <l>Drinking all Night, and Sleeping on the Benches.</l>
+               <l>I'll ſay that for him, were he to be hang'd,</l>
+               <l>He is as true a Blade as ever twang'd.</l>
+               <l>Shew me a man can ſhuffle fair and cut,</l>
+               <l>Yet always have three Trays in hand at Putt:</l>
+               <l>Shew me a man can turn up Noddy ſtill,</l>
+               <l>And deal himſelf three Fives too when he will:</l>
+               <l>Concludes with One and thirty, and a Pair?</l>
+               <l>Never fails Ten in Stock, and yet plays fair.</l>
+               <l>If <hi>Batt</hi> be not that Wight, I looſe my aim;</l>
+               <l>If any elſe pretend unto the ſame,</l>
+               <l>And ſay we dare not match him for a Pot,</l>
+               <l>They lye—provided <hi>Batt</hi>'s Wife knew it not.</l>
+            </lg>
+            <lg>
+               <l>Hark, the Bells toll at <hi>Holy-Roods;</hi> away</l>
+               <l>To Church, this is <hi>Batt</hi>'s Exerciſing-day.</l>
+               <l>He's ſally'd out from ſign of Pole and Baſon,</l>
+               <l>With Clergy-Cloak, clean Band, and Sunday-face on.</l>
+               <l>Some commend Eunuchs chanting in the Quire,</l>
+               <l>But how they ſhould learn Prick-ſong, I admire.</l>
+               <pb n="6" facs="tcp:108842:4"/>
+               <l>Some praiſe their Skill who in white Surplice ſing,</l>
+               <l>Fa, la, fa, ſol, Anthems, or ſome ſuch thing:</l>
+               <l>But let them not our ſmutty Clerk deſpiſe;</l>
+               <l>Blackbirds ſtill whiſtle better than Magpies.</l>
+               <l>Their charming Trills and Thrombo's muſt give place</l>
+               <l>To the melodious Conſort of <hi>Batt</hi>'s face;</l>
+               <l>Where Eyes and Noſe, Mouth, Beard, and Chin agree</l>
+               <l>In each ſweet Note: A Quire themſelves they be;</l>
+               <l>And better Muſick it moſt times appears,</l>
+               <l>To ſee his Strains, than hear the beſt of theirs.</l>
+            </lg>
+            <lg>
+               <l>Then at the Godly Twang, the two laſt Sta-aves,</l>
+               <l>Without which, Service is but done by halves:</l>
+               <l>Compar'd to him, what are they? ſuch a thing</l>
+               <l>As is his Bell-rope to a Fiddle-ſtring;</l>
+               <l>No more like him for Goggle, Snuff, and Groan,</l>
+               <l>Than blind Batt is to <hi>Batt</hi> with four Eyes on.</l>
+            </lg>
+            <lg>
+               <l>Search the Cathedrals, Colledges, and Halls,</l>
+               <l>All Churches, Chappels, Meeting-houſes, Stalls;</l>
+               <l>Summon all men of edifying Voice,</l>
+               <l>From Deans and Chapters, to the Singing-boys,</l>
+               <l>Chaplain, and Vicar, Lecturers to boot:</l>
+               <l>Nay, that our Challenge may be brave and ſtout,</l>
+               <l>Take in th'Apprentice, by Indenture bound,</l>
+               <l>On every Sabbath-day the ſeven years round,</l>
+               <l>To ſpell his Maſter faſt aſleep, and then</l>
+               <l>Hem—till he wakes, and gaping, cries—Amen.</l>
+            </lg>
+            <lg>
+               <l>If any (bar miſtakes) with greater pace</l>
+               <l>Can read the Chapters, let 'um take <hi>Batt</hi>'s place.</l>
+            </lg>
+            <lg>
+               <l>Well then, put on thy Eyes, and look about thee;</l>
+               <l>Do what we can, we can do nought without thee:</l>
+               <l>Let's woo and woo, and gain good will, What then?</l>
+               <l>It comes to nothing, till thou ſay Amen.</l>
+               <l>No Woman can be Church'd, till <hi>Batt</hi> appear;</l>
+               <l>A Chriſtening is no Chriſtening, 'leſs he's there.</l>
+               <l>Without his help, <hi>Moll, Betty, Tom,</hi> and <hi>Will,</hi>
+               </l>
+               <l>Sweet Babes, God knows had all been Cakebread ſtill.</l>
+               <l>If any well-diſpoſed Perſon is ſick</l>
+               <l>
+                  <hi>Batt</hi>'s ſent to; Collects cheaper are than Phyſick:</l>
+               <pb n="7" facs="tcp:108842:4"/>
+               <l>To ſay the truth on't, <hi>Batt,</hi> no man can be</l>
+               <l>With credit hang'd, without thy facultie:</l>
+               <l>For who without a Pſalm doth take a ſwing,</l>
+               <l>Dies like a Dog; hang him, he would not ſing:</l>
+               <l>But who turns off in time, 's a proper man,</l>
+               <l>And, <hi>Batt,</hi> thy Knife may cut him down agen.</l>
+            </lg>
+            <lg>
+               <l>Nay, were I to be buried for my life,</l>
+               <l>And all the learned Pariſh-Clerks at ſtrife</l>
+               <l>Who ſhould the Shovel ſhake, <hi>Batt</hi> ſhould be he,</l>
+               <l>Or elſe be buried who would for me.</l>
+               <l>He can go through the work, and cloſe my Grave</l>
+               <l>Not with Duſt only, but an Epitaph.</l>
+            </lg>
+            <lg>
+               <l>Then, in a word, he is the nobleſt Blade</l>
+               <l>That ever grac'd the Wheel and Whetſtone Trade;</l>
+               <l>The Organ of our Church, the greateſt Lay-man</l>
+               <l>That ever ſolemnly ſqueez'd out A—men.</l>
+               <l>He is the Wit, the Mirth, Religion,</l>
+               <l>The very Life and Death of the whole Town.</l>
+               <l>He is—Hold, Muſe! <hi>Batt</hi>'s <hi>Batt,</hi> and ſo will be;</l>
+               <l>Should I ſay more, 'twould be Battologie.</l>
+            </lg>
+            <div type="vision">
+               <head>The VISION.</head>
+               <lg>
+                  <l>HOld, hold my head! O <hi>Jove,</hi> thou know'ſt my pain,</l>
+                  <l>When <hi>Vulcan</hi> was Man-Midwife to thy Brain,</l>
+                  <l>As <hi>Batt</hi> the better Workman is to mine;</l>
+                  <l>
+                     <hi>Batt!</hi> thou that mak'ſt all the whole Pariſh whine,</l>
+                  <l>Come, tune my Fancy, as thou doſt the Pſalms,</l>
+                  <l>And with thy Bellows raiſe Poetick Flames.</l>
+                  <l>No Inkhorn will I dip in but thy mouth,</l>
+                  <l>Where Wooll, black Wooll, fit for ſad purpoſe grow'th:</l>
+                  <l>But leſt the doleful Theme ſhould make it dry,</l>
+                  <l>We'll ſet, that's Mourning too, a black Pot by.</l>
+               </lg>
+               <lg>
+                  <l>Bright <hi>Sol,</hi> with Perriwig of curled Carrot,</l>
+                  <l>And a Face laccar'd or'e like his Chariot,</l>
+                  <l>The cheerful Author of all Wit and Light,</l>
+                  <l>But what the Bell-man ſtalks with in the Night,</l>
+                  <pb n="8" facs="tcp:108842:5"/>
+                  <l>Had drove the Stage-Coach to the place of reſt,</l>
+                  <l>Dreſt all his Horſes, and himſelf undreſt,</l>
+                  <l>With Nights black Stockin had becapt his head,</l>
+                  <l>And ſoftly crept to Madam <hi>Thetis</hi> bed:</l>
+                  <l>Where what he did, I think I need not name;</l>
+                  <l>We Mortals, by his influence, do the ſame.</l>
+               </lg>
+               <lg>
+                  <l>'Twas then, juſt then, ſoft ſlumber ſeiz'd mine Eye,</l>
+                  <l>I wink'd, and winking Men moſt Viſions ſpie I</l>
+                  <l>When to my Fancy (what can't Fancy do?)</l>
+                  <l>Appear'd a Satyr ſad, and full of woe:<note place="margin">
+                        <hi>Batt</hi>'s Perſon deſcribed.</note>
+                  </l>
+                  <l>Bald was his Crown, but briſtly was his Beard;</l>
+                  <l>I ſaw no Horns, but he was over-ear'd.</l>
+                  <l>Grief had ſo ſunk his Eyes, that through each hole</l>
+                  <l>Methought I could look quite through to his Pole.</l>
+                  <l>In his Dark-lanthorn-face, Noſe ſtood for handle,</l>
+                  <l>And a white Tooth ſupply'd the inch of Candle.</l>
+               </lg>
+               <lg>
+                  <l>A Cloak upon one ſhoulder hangs as thin,</l>
+                  <l>But not ſo black as was the Wearers skin:</l>
+                  <l>To which compar'd, Charcoal and Jet ſeem wan;</l>
+                  <l>'Twould make deep Mourning for an <hi>African.</hi>
+                  </l>
+                  <l>A piece of dirty ſtretching Leather fac'd</l>
+                  <l>His breaſt; an Apron, or his Conſcience was't?</l>
+                  <l>He drivell'd Ink, from Noſtrils Tar diſtill'd,</l>
+                  <l>Piſs'd Coffee, and with Pitch his Hoſe full-fill'd.</l>
+                  <l>No Fumes from ſooty Hypochondria ſent,</l>
+                  <l>Could a more diſmal Viſion repreſent.</l>
+               </lg>
+               <lg>
+                  <l>At firſt approach, in ſweat and fear I laid,</l>
+                  <l>And ſoftly <hi>Fee faa fumm</hi> thrice over ſaid.</l>
+                  <l>Enchanted ſo, Devil, what art I cry'd;</l>
+                  <l>Your very humble Servant, he reply'd.</l>
+                  <l>I am the God of Wit in Maſquerade,</l>
+                  <l>The grand Improver of the Rhyming Trade;</l>
+                  <l>Mechanick Fancy, a true Greſhamite,</l>
+                  <l>One that can ſing, file, hammer, and indite.</l>
+                  <l>Or if you would in Modern Language know it,</l>
+                  <l>I am a Philo-pyro-technical Poet.</l>
+               </lg>
+               <lg>
+                  <l>Surceaſe to wonder, reaking Mortal, that here</l>
+                  <l>I do appear in Elegiack Tatter.</l>
+                  <pb n="9" facs="tcp:108842:5"/>
+                  <l>Grief, grief 'tis brings me unto thee to waite,</l>
+                  <l>Both as chief Mourner for <hi>Batt</hi>'s deareſt Mate,</l>
+                  <l>And to complain of this ungrateful Town,</l>
+                  <l>Which lets a Matron of ſo good Renown,</l>
+                  <l>An Alder-woman of the ſacred hill,</l>
+                  <l>Die, without Tribute from each Gooſe's quill:</l>
+                  <l>One, at whoſe Grave all Muſes ought to meet,</l>
+                  <l>Like Swans, with paper-breaſts and inky feet,</l>
+                  <l>And with ſweet Ballad crown her godly life,</l>
+                  <l>The common right of every Poets Wife.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Hampton,</hi> O <hi>Hampton,</hi> in the days of yore,</l>
+                  <l>The lawful Pride of all the Southern ſhore,</l>
+                  <l>With all advantages of Nature grac'd,</l>
+                  <l>Betwixt the Arms of fair <hi>Antona</hi> plac'd;</l>
+                  <l>Guarded by Forreſts both on Land and Sea,</l>
+                  <l>From Storms, and Man, the ruder Enemy,</l>
+                  <l>By <hi>Neptune</hi> and his Argonauts careſs'd</l>
+                  <l>And all that were in Tarpawlin dreſs'd.</l>
+                  <l>Admir'd for Beauty, but for Riches more;</l>
+                  <l>For nothing can be handſome that is poor.</l>
+               </lg>
+               <lg>
+                  <l>Fertile in men of Valour and loud Fame,</l>
+                  <l>In Knights and Giants, as thy Gates proclaim,</l>
+                  <l>And gentle Poets, without whom thoſe Wights</l>
+                  <l>Had got but little honour by their fights.</l>
+                  <l>Upon thy Banks fam'd <hi>Sternhold</hi> did compoſe</l>
+                  <l>Thoſe two laſt Staves which <hi>Batt</hi> ſo oft doth noſe.<note place="margin">Sternhold <hi>born in</hi> Hampton.</note>
+                  </l>
+                  <l>
+                     <hi>Batt</hi> to thy Altars too ſweet Metre brings,</l>
+                  <l>And makes as learned Anthems as he ſings.</l>
+               </lg>
+               <lg>
+                  <l>Here once each Tradeſman could both work and write;</l>
+                  <l>As Coblers whiſtle at it, they'd indite.</l>
+                  <l>Invention was ſo pregnant, that oft-times</l>
+                  <l>Men would talk Poetry, that could not Rhymes.</l>
+                  <l>Poems were paſted up in every Hall</l>
+                  <l>As thick and thin as Cobwebs on the wall.<note place="margin">Formerly every houſe had ſe<g ref="char:EOLhyphen"/>veral ſacred Rhymes in it.</note>
+                  </l>
+                  <l>Here you might view <hi>Haman</hi> in all his pride,</l>
+                  <l>Us'd like a Rogue, hang'd, and then Dittified.</l>
+                  <pb n="10" facs="tcp:108842:6"/>
+                  <l>Or the two Elders, Poets in their time,</l>
+                  <l>Tempting <hi>Suſanna</hi> in Battoick Rhyme.</l>
+                  <l>Each Kitching, Parlor, Chamber, were all dreſt here</l>
+                  <l>With <hi>Sampſon, Joſeph, Daniel,</hi> or Queen <hi>Heſter.</hi>
+                  </l>
+                  <l>No Room was thought well furniſht for Converſe,</l>
+                  <l>Till hung with Buckram paint and Buckram-verſe.</l>
+                  <l>Nay, I have ſeen a Ballad full of wit,</l>
+                  <l>Tore down to ſinge a Gooſe upon the Spit.</l>
+               </lg>
+               <lg>
+                  <l>Bleſs'd Town! where did the God's e're grant before,</l>
+                  <l>That men might all be Poets, and not poor?</l>
+                  <l>A happineſs ne'r in <hi>Parnaſſus</hi> known,</l>
+                  <l>Nor couldſt thou, <hi>Hampton,</hi> call it long thy own:</l>
+                  <l>For Age, who like a Bloud-hound, Glory traces</l>
+                  <l>And deſtroys Towns as well as handſome Faces,</l>
+                  <l>Hath made thee poor and dull like other places.</l>
+                  <l>Imp'd with ſwift wings, thy Beauty's fled away,</l>
+                  <l>The very ruines of thy Pride decay.</l>
+                  <l>Thy Gates are mouldred, the Portcullis ſhew'th,</l>
+                  <l>Like rotten Teeth in an old womans mouth.</l>
+                  <l>Walls, Forts and Towers into their Trenches ſlide;</l>
+                  <l>The Caſtle looks like a Noſe Frenchiſi'd;</l>
+                  <l>As though in vain the Monſieur heretofore</l>
+                  <l>Had made thee ſhift thy Lodging for a Cure.<note place="margin">The Town burnt twice by the <hi>French.</hi>
+                     </note>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Whither are all thy winged Lovers flown,</l>
+                  <l>The mighty Carracks and great Gallion,</l>
+                  <l>With all that numerous train which did reſort</l>
+                  <l>In Marine Coaches to thy crowded Port?</l>
+                  <l>They ceaſe their Courtſhip now, and only own</l>
+                  <l>Thou haſt been once a rich and handſome Town:</l>
+                  <l>But Time hath put a period to thoſe days:</l>
+                  <l>Farewel; when Miſs grows old, the Gallant ſtrays.</l>
+               </lg>
+               <lg>
+                  <l>Nor art thou Bankrupt grown only in Trade,</l>
+                  <l>But oh, thy very Wits too are decay'd.</l>
+                  <l>Whither are now the race of Chimers gone,</l>
+                  <l>Thy Quibble-Squires, and Knights of <hi>Helicon?</hi>
+                  </l>
+                  <l>All the Wit-Jobbers are quite broke, they ſay,</l>
+                  <l>Here's ſcarce one left that can at Crambo play.</l>
+                  <l>Nothing of Wit or Poetry remains,</l>
+                  <l>But thread-bare Coats, no Money, and crack'd Brains.</l>
+                  <pb n="11" facs="tcp:108842:6"/>
+                  <l>Oh, Heavens, how ſtrange theſe alterations are?</l>
+                  <l>Shall we want Ballads in a Country Fair?</l>
+                  <l>The merry Fidlers long ſince left the Town,<note place="margin">There was formerly Muſick for the Mayor and Town.</note>
+                  </l>
+                  <l>And now of late the Gallows is broke down;</l>
+                  <l>Which by the ancient Charter ſtill did uſe</l>
+                  <l>To furniſh matter for the Tragick Muſe.</l>
+                  <l>No wonder then if Poetry decay,</l>
+                  <l>When ſuch Encouragements are ta'n away.</l>
+               </lg>
+               <lg>
+                  <l>There was a time when not a Dog could die</l>
+                  <l>Within theſe Walls, without an Elegie.<note place="margin">
+                        <hi>Batt</hi> made an E<g ref="char:EOLhyphen"/>legie upon Capt. <hi>Narbon's</hi> Dog <hi>Quand.</hi>
+                     </note>
+                  </l>
+                  <l>A Dog of Note, I mean not every Dog</l>
+                  <l>Bred up to tug the naſty tail of Hog;</l>
+                  <l>But ſuch as <hi>Quand,</hi> who liv'd in gentle faſhion,<note place="margin">The Dog died of a Clap.</note>
+                  </l>
+                  <l>And di'd as Genteels do, of Recreation.</l>
+                  <l>But at <hi>Meggs</hi> Grave they now all ſilence keep,<note place="margin">
+                        <hi>Batt</hi> made an Elegy upon his Wife.</note>
+                  </l>
+                  <l>As though they fear'd to wake her from her ſleep:</l>
+                  <l>Not all the Market will afford a Verſe</l>
+                  <l>To pin upon a Siſter-Poets Herſe.</l>
+                  <l>Poet by Marriage, ſo ſhe claims that honour,</l>
+                  <l>As Madam hers, by a Knight's lying on her.</l>
+                  <l>Nay, <hi>Batt</hi> himſelf ſtands mute, as dull and dead,</l>
+                  <l>As Friar <hi>Bacon</hi>'s thrice neglected head.</l>
+                  <l>That Son of Fancy, got in Raptures, he</l>
+                  <l>Whoſe life and living is all Poetrie,</l>
+                  <l>Who ſuck'd <hi>Proſodia</hi> from his Mothers Teat,</l>
+                  <l>Till like a Caterpiller he was all Feet:</l>
+                  <l>A walking Ode, a Hymn of Ekes and Ayes,</l>
+                  <l>Whoſe Pulſe is but the ſcanning of his days;</l>
+                  <l>He who ne'r ſpeaks nor thinks, but in true time;</l>
+                  <l>Farts Epigrams, and ſnores 'um too in Rhyme;</l>
+                  <l>He, he ſtands diſinſpir'd, and ſome ſuppoſe,</l>
+                  <l>Intends to take his leave of her in Proſe.</l>
+               </lg>
+               <lg>
+                  <l>A tame wild beaſt of late, knowing he muſt,</l>
+                  <l>When he grew fat, be damn'd to Paſty-cruſt,</l>
+                  <l>Choſe a more noble fate, and licking in</l>
+                  <l>Poyſon, prevented the Cooks Rowling-pin.<note place="margin">
+                        <hi>Batt</hi> made an Elegy upon Capt. <hi>Nar<g ref="char:EOLhyphen"/>bon's</hi> Buck.</note>
+                  </l>
+                  <l>Heroick Act! which noble <hi>Batt</hi> did ſcorn</l>
+                  <l>(Hoping to be rewarded with a Horn)</l>
+                  <pb n="12" facs="tcp:108842:7"/>
+                  <l>Should unbewail'd in Rhyme Heroick go:</l>
+                  <l>And could not his own Dear oblige him ſo?</l>
+                  <l>Muſt <hi>Megg,</hi> the Wife of <hi>Batt,</hi> aged Eighty,</l>
+                  <l>Deceas'd <hi>November</hi> thirteenth, Seventy three,</l>
+                  <l>Be caſt, like common Duſt into the Pit,</l>
+                  <l>Without one line of Monumental wit?</l>
+                  <l>One Death's head Diſtich, or Mortality-ſtaff,</l>
+                  <l>With ſenſe enough for Church-yard Epitaph?</l>
+                  <l>No ſtirrup Verſe at Grave before ſhe go?</l>
+                  <l>
+                     <hi>Batt</hi> does not uſe to part at Tavern ſo.</l>
+               </lg>
+               <lg>
+                  <l>Grief here prevailing, ſtruck the Satyr dumb,</l>
+                  <l>Who twiſting hard his dropping Noſe with Thumb,</l>
+                  <l>Like one that turns a Conduit-cock about,</l>
+                  <l>To let the water guſh more freely out;</l>
+                  <l>Methought I wept too then, and ſighing ſaid,</l>
+                  <l>Courage, kind Gobling, though the Times are bad,</l>
+                  <l>And Wit's as ſcarce as Money, yet no doubt</l>
+                  <l>Fame will provoke ſome worthy Poet out,</l>
+                  <l>Who from her Story will renown his Pen.</l>
+                  <l>He kindly bow'd, and ſmiling ſaid <hi>Amen.</hi>
+                  </l>
+                  <l>At which I woke, as Men at Sermons uſe,</l>
+                  <l>And heard <hi>Batt</hi>'s knocking at the door for Dues.<note place="margin">
+                        <hi>Batt</hi> collects the Par<g ref="char:EOLhyphen"/>ſons Dues.</note>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:108842:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
